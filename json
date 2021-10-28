@@ -1,0 +1,53 @@
+'{
+    "profile": {
+        "name": "Игорь",
+        "type": "physical",
+        "phone": "+7913*******"
+    },
+    "shop": 68225,
+    "extId": "master_649",
+    "date": "2021-04-12",
+    "paymentState": "not_paid",
+    "orderPrice": "490",
+    "totalPrice": "646",
+    "recipientName": "Игорь",
+    "services": [
+        {
+            "name": "Доставка",
+            "total": 156
+        }
+    ],
+    "orderProducts": [
+        {
+            "productOffer": 300400,
+            "count": 1,
+            "price": 490,
+            "discountPrice": 0,
+            "total": 490
+        }
+    ],
+    "eav": {
+        "delivery-services-request-data": {
+            "deliveryService": 1,
+            "rate": 48,
+            "servicePoint": 74655,
+            "sender": 672,
+            "senderProfile": 1414940,
+            "currency": 1
+        },
+        "senderProfile": 1414940,
+        "delivery-services-request": true,
+        "order-reserve-warehouse": 886
+    },
+    "comment": "Заявка с тильды №1510524493 Адрес точки самовывоза: ул. Нарымская, 17\\/2",
+    "address": {
+        "street": "ул. Нарымская",
+        "postcode": "630132",
+        "locality": {
+            "name": "Новосибирск",
+            "type": "город",
+            "country": 28
+        },
+        "notFormal": "Россия, Новосибирская обл., Новосибирск, ул. Нарымская, 17\\/2"
+    }
+}'
